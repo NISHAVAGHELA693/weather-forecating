@@ -1,0 +1,3 @@
+Weather Forecating :- Weather Forecating can be defined as act of predicting future weather conditions which are likely to occure. our aplication will provide the information about the weather for about 8 days in just a single click which makes it faster and easier.
+the web apps uses applications program interface which ensures the preciseness of the information given to the user by the web app.
+our web application also provide weather description, maximum and minimum tempreture, humidity, atmospheric presure, wind speed, cloud coverage, chances of rain , global sunrise and sunset of the desired city
